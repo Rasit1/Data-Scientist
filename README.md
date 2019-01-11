@@ -1,4 +1,4 @@
 # Data-scientist
-#Journalists.rb 
-#Cryptocurrencies.rb
-#Semaine de ouf! 
+# Journalists.rb 
+# Cryptocurrencies.rb
+# Semaine de ouf! 
